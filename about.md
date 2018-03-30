@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am an experienced C++ technologist, specialising in automated low-latency algorithmic and quantitative trading software on Linux.
+I am learning Modern C++ and maths. I write C++ for servers.
 
-### Contact me
+### Twitter
 
-[steve.lorimer@gmail.com](mailto:steve.lorimer@gmail.com)
+[@irfnhm]
