@@ -8,4 +8,4 @@ I am learning Modern C++ and maths. I write C++ for servers.
 
 ### Twitter
 
-[@irfnhm]
+[link] (https://twitter.com/irfnhm)
