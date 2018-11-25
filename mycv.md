@@ -45,4 +45,4 @@
 
 ## Conferences
 ### Spoke on “Neuroscience Approach in Artificial Intelligence” at Conference on Software Engineering and Data Sciences, 06/2018
-### Spoke on “Modernizing code with C++ Standard Library” at Mozilla Developer Conference, 03/2017
+###  Spoke on “Modernizing code with C++ Standard Library” at Mozilla Developer Conference, 03/2017
