@@ -1,3 +1,10 @@
+---
+layout: page
+title: Resume
+permalink: /mycv/
+---
+
+
 # Irfan Hamid
 
 ### irfnhm@gmail.com 
