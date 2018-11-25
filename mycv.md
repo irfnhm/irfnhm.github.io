@@ -1,18 +1,13 @@
 ---
 layout: page
-title: Resume
+title: Irfan Hamid
 permalink: /mycv/
 ---
 
-
-# Irfan Hamid
-
-### irfnhm@gmail.com 
-
-### +91-9419660396
+*irfnhm@gmail.com* 
 
 
-## Summary of skills
+# Summary of skills
 *    Experience in systems and web software development.
 
 *    Experience in designing and developing applications for the Android platform.
@@ -24,12 +19,12 @@ permalink: /mycv/
 *    Knowledge of machine learning.
 
 
-## Experience
+# Experience
 **Project Engineer – Software Development at Wipro, 4/2017 – Present** 
 
 *    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities.
 
-*    Worked on financial software systems using C++.
+*    Responsible for building financial software systems using C++.
 
 
 **Project Engineer –  Networking Systems at Wipro, 12/2014 – 3/2017**
@@ -44,21 +39,21 @@ permalink: /mycv/
 *    Worked on University online payment system. The project was developed using PHP.
 
 
-## Education
+# Education
 
 **BGSB University, Jammu** 
 
-*    BTech Computer Science and Engineering, June 2014 GPA 71.6/100
+*    BTech Computer Science and Engineering, June 2014 - *GPA 71.6/100*
 
 
-## Technical Skills
+# Technical Skills
 
 *    **Programming Technologies:** C++, PHP, MySQL, Java. 
 
 *    **Tools:** Git, Compiler Explorer, VS Code, Parrot Sec OS.
 
 
-## Certifications
+# Certifications
 
 *    Android Developer Nanodegree - *Udacity*
 
@@ -67,7 +62,7 @@ permalink: /mycv/
 *    Penetration Testing and Ethical Hacking - *Cybrary*
 
 
-## Awards
+# Awards
 
 **Technophilia Systems - 04/2014** 
 
@@ -75,10 +70,10 @@ permalink: /mycv/
 
 **Google - 02/2018** 
 
-*    Google India Udacity Developer Scholarship Recipient for Android Developer Nanodegree
+*    Google India Udacity Developer Scholarship Recipient for Android Developer Nanodegree.
 
 
-## Conferences
+# Conferences
 
 *    Spoke on “Neuroscience Approach in Artificial Intelligence” at Conference on Software Engineering and Data Sciences, 06/2018
 
