@@ -31,18 +31,20 @@ permalink: /mycv/
 
 *    Worked on financial software systems using C++.
 
+
 **Project Engineer –  Networking Systems at Wipro, 12/2014 – 3/2017**
 
 *    Responsible for maintaining Linux systems/servers and administering perimeter security systems such as Firewalls.
 
 *    Designing and implementing new solutions, secure network systems by establishing and enforcing policies, configure routing and switching equipment and hosted IP voice services.
 
+
 **Software Development Intern at NIIT, 6/2013 – 8/2013** 
 
 *    Worked on University online payment system. The project was developed using PHP.
 
 
-###Education
+### Education
 
 **BGSB University, Jammu** 
 
