@@ -13,15 +13,15 @@ permalink: /mycv/
 
 
 ### Summary of skills
-- Experience in systems and web software development.
+*    Experience in systems and web software development.
 
-- Experience in designing and developing applications for the Android platform.
+*    Experience in designing and developing applications for the Android platform.
 
-- Experience in configuring and managing Linux systems.
+*    Experience in configuring and managing Linux systems.
 
-- Experience in designing and developing infrastructure monitoring and reporting tools.
+*    Experience in designing and developing infrastructure monitoring and reporting tools.
 
-- Knowledge of machine learning.
+*    Knowledge of machine learning.
 
 
 ### Experience
