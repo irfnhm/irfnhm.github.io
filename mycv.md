@@ -4,7 +4,7 @@ title: Irfan Hamid
 permalink: /mycv/
 ---
 
-*irfnhm@gmail.com* 
+<irfnhm@gmail.com>
 
 
 # Summary of skills
