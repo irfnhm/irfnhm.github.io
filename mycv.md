@@ -48,8 +48,10 @@ permalink: /mycv/
 
 # Technical Skills
 
-*    **Programming Technologies:** 
+*    **Programming Technologies:**
+
 	 ***Systems:*** C++.
+	 
 	 ***Web:*** PHP, Reactjs. 
 
 *    **Tools:** Git, Compiler Explorer, VS Code, Parrot Sec OS.
