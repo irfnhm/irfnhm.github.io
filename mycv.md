@@ -16,7 +16,7 @@ permalink: /mycv/
 
 *    Practical knowledge of designing and developing applications for the Android platform.
 
-*    Knowledge of machine learning.
+*    Knowledge of machine learning, web services, JSON parsing and APIs.
 
 
 # Experience
@@ -24,7 +24,7 @@ permalink: /mycv/
 
 *    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities.
 
-*    Responsible for building financial software systems using C++.
+*    Responsible for writing backend services for the financial software stack using C++.
 
 
 **Project Engineer –  Networking Systems at Wipro, 12/2014 – 3/2017**
