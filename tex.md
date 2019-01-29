@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irfan Hamid
-permalink: /mycv/
+permalink: /tex/
 ---
 
 <irfnhm@gmail.com>
