@@ -24,6 +24,8 @@ permalink: /tex/
 
 *    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities. This is being developed using PHP.
 
+*    Responsible for creating a JavaScript and CSS compression library in PHP.
+
 *    Responsible for writing backend services for the financial software stack using C++.
 
 
