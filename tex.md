@@ -54,7 +54,7 @@ permalink: /tex/
 
 	 ***Systems:*** C++.
 
-	 ***Web:*** PHP, Reactjs. 
+	 ***Web:*** PHP.
 
 	 ***Mobile:*** Android.
 
