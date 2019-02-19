@@ -7,18 +7,6 @@ permalink: /tex/
 <irfnhm@gmail.com>
 
 
-# Summary of skills
-*    Experience in systems and web software development.
-
-*    Experience in configuring and managing Linux systems.
-
-*    Experience in designing and developing infrastructure monitoring and reporting tools.
-
-*    Practical knowledge of designing and developing applications for the Android platform.
-
-*    Knowledge of machine learning, web services, JSON parsing and APIs.
-
-
 # Experience
 **Project Engineer – Software Development at Wipro, 4/2017 – Present** 
 
