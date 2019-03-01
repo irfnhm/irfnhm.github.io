@@ -14,7 +14,7 @@ permalink: /tex/
 
 *    Responsible for creating a JavaScript and CSS compression library.
 
-*    Responsible for writing backend services for the financial software stack using.
+*    Responsible for creating tools for the financial software stack.
 
 
 **Project Engineer –  Networking Systems at Wipro, 12/2014 – 3/2017**
