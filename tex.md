@@ -10,23 +10,21 @@ permalink: /tex/
 # Experience
 **Project Engineer – Software Development at Wipro, 4/2017 – Present** 
 
-*    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities. This is being developed using PHP.
+*    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities. 
 
-*    Responsible for creating a JavaScript and CSS compression library in PHP.
+*    Responsible for creating a JavaScript and CSS compression library.
 
-*    Responsible for writing backend services for the financial software stack using C++.
+*    Responsible for writing backend services for the financial software stack using.
 
 
 **Project Engineer –  Networking Systems at Wipro, 12/2014 – 3/2017**
 
-*    Responsible for maintaining Linux systems/servers and administering perimeter security systems such as Firewalls.
-
-*    Designing and implementing new solutions, secure network systems by establishing and enforcing policies, configure routing and switching equipment and hosted IP voice services.
+*    Responsible for security of network systems, configure routing and switching equipment and hosted IP voice services.
 
 
 **Software Development Intern at NIIT, 6/2013 – 8/2013** 
 
-*    Worked on University online payment system. The project was developed using PHP.
+*    Worked on University CMS.
 
 
 # Education
@@ -46,7 +44,7 @@ permalink: /tex/
 
 	 ***Mobile:*** Android.
 
-*    **Tools:** Git, Compiler Explorer, VS Code, Parrot Sec OS.
+*    **Tools:** Git, Compiler Explorer, VS Code, Parrot Security.
 
 
 # Certifications
