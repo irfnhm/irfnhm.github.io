@@ -38,11 +38,13 @@ permalink: /tex/
 
 *    **Programming Technologies:**
 
-	 ***Systems:*** C++.
-
-	 ***Web:*** PHP.
+	 C++, PHP
 
 	 ***Mobile:*** Android.
+	 
+	 ***Database:*** MySQL.
+	 
+	 Familiar with ReactJS
 
 *    **Tools:** Git, Compiler Explorer, VS Code, Parrot Security.
 
