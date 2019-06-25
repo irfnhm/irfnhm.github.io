@@ -10,7 +10,7 @@ permalink: /tex/
 # Experience
 **Software Engineer at Change.org, 6/2019 - Present** 
 
-*    Responsible for creating movements and fundraising tools.
+*    Responsible for creating Campaign and Fundraising tools.
 
 
 **Project Engineer – Software Development at Wipro, 4/2017 – 5/2019** 
