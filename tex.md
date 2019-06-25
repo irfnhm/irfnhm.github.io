@@ -8,9 +8,14 @@ permalink: /tex/
 
 
 # Experience
-**Project Engineer – Software Development at Wipro, 4/2017 – Present** 
+**Software Engineer at Change.org, 6/2019 - Present** 
 
-*    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities. 
+*    Responsible for creating movements and fundraising tools.
+
+
+**Project Engineer – Software Development at Wipro, 4/2017 – 5/2019** 
+
+*    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities.
 
 *    Responsible for creating a JavaScript and CSS compression library.
 
