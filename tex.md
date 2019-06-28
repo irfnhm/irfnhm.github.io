@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Irfan Hamid
+title: 
 permalink: /tex/
 ---
 
