@@ -17,8 +17,6 @@ permalink: /tex/
 
 *    Responsible for creating an internal dashboard tool. It is now used to view user engagement metrics such as the number of active users, active devices, present employees and the summary of their activities.
 
-*    Responsible for creating a JavaScript and CSS compression library.
-
 *    Responsible for creating tools for the financial software stack.
 
 
