@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
   
-I code for living.   
-I write C++ for servers, PHP for web apps.  
-When I'm not programming, I am either doing malware reverse engineering or fixing a broken server/network or trying a new Linux distro.
+Programming gives me peace and joy. I write C++ for servers, PHP for web apps and Rust for fun. When I'm not programming, I am either sleeping or in Gym.
