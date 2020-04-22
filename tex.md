@@ -10,9 +10,17 @@ permalink: /tex/
 # Experience
 **Software Engineer at Change.org Foundation, June 2019 - Present** 
 
-*    Responsible for creating Campaign and Fundraising tools.
+**Software:**
 
-*    AWS administration.
+*   Responsible for creating Campaign and Fundraising systems.
+*   Integrated payment gateways, CRM automation.
+*   Integrated user tracking and analytics tools into the tools.
+*   Build APIs that are used by various services.
+
+**Infrastructure:**
+
+*   AWS: Set up EC2 and EB instances, set up Hosting Zones, load balancers and email
+deliverability.
 
 
 **Project Engineer – Software Development at Wipro, April 2017 – May 2019** 
@@ -24,7 +32,7 @@ permalink: /tex/
 
 **Project Engineer –  Networking Systems at Wipro, December 2014 – March 2017**
 
-*    Responsible for security of network systems, configure routing and switching equipment and hosted IP voice services.
+*    Responsible for maintaining networking systems.
 
 
 **Software Development Intern at NIIT, June 2013 – August 2013** 
@@ -43,35 +51,13 @@ permalink: /tex/
 
 *    **Programming Technologies:**
 
-	 C++, PHP
+	 C++, PHP, Laravel
 
 	 ***Mobile:*** Android.
 	 
 	 ***Database:*** MySQL.
 	 
-	 Familiar with ReactJS
-
-*    **Tools:** Git, Git-Flow, Compiler Explorer.
-
-
-# Certifications
-
-*    Android Developer Nanodegree - *Udacity*
-
-*    Malware analysis and Reverse Engineering - *Cybrary*
-
-*    Penetration Testing and Ethical Hacking - *Cybrary*
-
-
-# Awards
-
-**Google - 02/2018** 
-
-*    Google India Udacity Developer Scholarship Recipient for Android Developer Nanodegree.
-
-**Technophilia Systems - 04/2014** 
-
-*    Scored first position in Android app development competition.
+	 Familiar with ReactJS, Nodejs
 
 
 # Conferences
