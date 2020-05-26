@@ -12,6 +12,7 @@ The bootcamp will run for 3 months and I will design the course to cover as much
 <ol>
 <li>Basic and Advanced C++</li>
 <li>PHP for developing web applications</li>
+<li>System Design</li>
 <li>Cloud computing using Amazon Web Services</li>
 <li>Interview Preparation using Data Structures and Algorithms</li>
 </ol>
@@ -30,4 +31,5 @@ The entire bootcamp will be online, here the guidelines:
 ## Important
 This bootcamp is only for people studying in engineering colleges based in Kashmir.
 
+## Engage
 You can reach out to me on [Twitter](https://twitter.com/malwarebo)
